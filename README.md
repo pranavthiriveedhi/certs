@@ -11,3 +11,6 @@ Received May 3, 2023
 Amazon Web Services - AWS Certified Cloud Practitioner |
 Received May 5, 2023 |
 Expires May 5, 2026
+
+Databricks - Databricks Lakehouse Fundamentals |
+Received July 6
